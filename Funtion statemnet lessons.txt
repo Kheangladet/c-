@@ -1,0 +1,17 @@
+Compiling single file...
+--------
+- Filename: C:\Users\MSI B12UCS\Documents\(a,n) function.cpp
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Processing C++ source file...
+--------
+- C++ Compiler: %BinDir0%\g++.exe
+- Command: g++.exe "C:\Users\MSI B12UCS\Documents\(a,n) function.cpp" -o "C:\Users\MSI B12UCS\Documents\(a,n) function.exe"  -I"%CppIncludeDir0%" -I"%CppIncludeDir1%" -I"%CppIncludeDir2%" -I"%CppIncludeDir2%\c++" -L"%LibDir0%" -L"%LibDir1%" -static-libgcc
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: C:\Users\MSI B12UCS\Documents\(a,n) function.exe
+- Output Size: 128.12890625 KiB
+- Compilation Time: 0.36s
